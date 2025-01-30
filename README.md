@@ -1,4 +1,4 @@
-Hi i am İbrahim. I am currently a freshman in Bilkent University. I new to computer science but eager to learn.
+Hi i am İbrahim. I a second year in Bilkent University.
 
 <!---
 ibrahimyilmz/ibrahimyilmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-Hi i am İbrahim Enes Yılmaz. I am a third year in Bilkent University and exchange student in ESIEE Paris
+Hi i am İbrahim Enes Yılmaz. I am a fourth year in Bilkent University.
 
 <!---
 ibrahimyilmz/ibrahimyilmz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
